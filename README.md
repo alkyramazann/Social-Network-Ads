@@ -1,2 +1,11 @@
 # Social-Network-Ads
-This repository demonstrates the implementation of a Decision Tree Classifier on the Social Network Ads dataset. It covers data preprocessing, feature selection, train-test splitting, model training, performance evaluation, and decision tree visualization to understand model behavior and decision boundaries.
+This project applies a Decision Tree Classifier to the Social Network Ads dataset
+to predict whether a user will purchase a product based on their demographic features.
+
+Steps included in this project:
+- Dataset exploration and preprocessing
+- Feature and target variable selection
+- Train-test split
+- Training a Decision Tree Classifier
+- Model evaluation using accuracy metrics
+- Visualization of the trained decision tree
